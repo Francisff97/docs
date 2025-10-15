@@ -1,0 +1,25 @@
+{
+  "id": "platform/privacy",
+  "title": "Privacy",
+  "description": "1. Go to Admin -> Platform -> Privacy.",
+  "source": "@site/docs/platform/privacy.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/privacy",
+  "permalink": "/platform/privacy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Privacy"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Coupons",
+    "permalink": "/commerce/coupons"
+  },
+  "next": {
+    "title": "Google Analytics",
+    "permalink": "/platform/analytics"
+  }
+}

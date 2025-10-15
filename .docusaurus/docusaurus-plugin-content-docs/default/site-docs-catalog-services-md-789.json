@@ -1,0 +1,25 @@
+{
+  "id": "catalog/services",
+  "title": "Create a Service",
+  "description": "Describe your service, add a except and a description.",
+  "source": "@site/docs/catalog/services.md",
+  "sourceDirName": "catalog",
+  "slug": "/catalog/services",
+  "permalink": "/catalog/services",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Create a Service"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Partners",
+    "permalink": "/catalog/partners"
+  },
+  "next": {
+    "title": "Builders",
+    "permalink": "/catalog/builders"
+  }
+}

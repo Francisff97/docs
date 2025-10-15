@@ -1,0 +1,15 @@
+
+:root{
+  --ifm-color-primary:#6d28d9;
+  --ifm-color-primary-dark:#5b21b6;
+  --ifm-color-primary-darker:#4c1d95;
+  --ifm-font-family-base: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji','Segoe UI Emoji';
+  --ifm-heading-font-family: Orbitron, var(--ifm-font-family-base);
+}
+.hero--primary{background:radial-gradient(1000px 400px at 10% -10%, #7c3aed33, transparent), radial-gradient(1000px 400px at 90% 110%, #7c3aed33, transparent)}
+.menu__link--sublist{
+  color: #b083ff;
+}
+.footer--dark {
+  background: #080014;
+}

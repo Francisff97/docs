@@ -1,0 +1,25 @@
+{
+  "id": "faq",
+  "title": "FAQ",
+  "description": "Where do I find my orders? → Admin → Orders",
+  "source": "@site/docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FAQ"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "SEO Media",
+    "permalink": "/seo/media"
+  },
+  "next": {
+    "title": "Troubleshoting",
+    "permalink": "/troubleshoting"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "integrations/paypal",
+  "title": "PayPal",
+  "description": "To set Paypal contact me on discord.",
+  "source": "@site/docs/integrations/paypal.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/paypal",
+  "permalink": "/integrations/paypal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PayPal"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Video Add-ons",
+    "permalink": "/integrations/video"
+  },
+  "next": {
+    "title": "SEO Pages",
+    "permalink": "/seo/pages"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "catalog/coaches",
+  "title": "Coaches",
+  "description": "1. Go to Admin -> People -> Coaches.",
+  "source": "@site/docs/catalog/coaches.md",
+  "sourceDirName": "catalog",
+  "slug": "/catalog/coaches",
+  "permalink": "/catalog/coaches",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Coaches"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Packs",
+    "permalink": "/catalog/packs"
+  },
+  "next": {
+    "title": "Categories Pack",
+    "permalink": "/catalog/categories"
+  }
+}

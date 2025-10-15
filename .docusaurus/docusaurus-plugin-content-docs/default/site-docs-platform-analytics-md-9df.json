@@ -1,0 +1,25 @@
+{
+  "id": "platform/analytics",
+  "title": "Google Analytics",
+  "description": "1. Go to Admin -> Platform -> Google ANalytics.",
+  "source": "@site/docs/platform/analytics.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/analytics",
+  "permalink": "/platform/analytics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Google Analytics"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Privacy",
+    "permalink": "/platform/privacy"
+  },
+  "next": {
+    "title": "Platform Info",
+    "permalink": "/platform/info"
+  }
+}

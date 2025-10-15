@@ -1,0 +1,25 @@
+{
+  "id": "seo/media",
+  "title": "SEO Media",
+  "description": "1. Go to Admin -> SEO -> Media.",
+  "source": "@site/docs/seo/media.md",
+  "sourceDirName": "seo",
+  "slug": "/seo/media",
+  "permalink": "/seo/media",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SEO Media"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "SEO Pages",
+    "permalink": "/seo/pages"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/faq"
+  }
+}

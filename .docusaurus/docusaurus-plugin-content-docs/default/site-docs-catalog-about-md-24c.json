@@ -1,0 +1,25 @@
+{
+  "id": "catalog/about",
+  "title": "About page",
+  "description": "1. Go to Admin -> Content -> About Page.",
+  "source": "@site/docs/catalog/about.md",
+  "sourceDirName": "catalog",
+  "slug": "/catalog/about",
+  "permalink": "/catalog/about",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "About page"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Categories Pack",
+    "permalink": "/catalog/categories"
+  },
+  "next": {
+    "title": "Hero sections",
+    "permalink": "/catalog/hero"
+  }
+}

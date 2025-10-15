@@ -1,0 +1,14 @@
+{
+  "id": "platform/appearance",
+  "title": "appearance",
+  "description": "",
+  "source": "@site/docs/platform/appearance.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/appearance",
+  "permalink": "/platform/appearance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "catalog/packs",
+  "title": "Packs",
+  "description": "Alt text",
+  "source": "@site/docs/catalog/packs.md",
+  "sourceDirName": "catalog",
+  "slug": "/catalog/packs",
+  "permalink": "/catalog/packs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Packs"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Image Optimizer",
+    "permalink": "/admin/optimizer"
+  },
+  "next": {
+    "title": "Coaches",
+    "permalink": "/catalog/coaches"
+  }
+}

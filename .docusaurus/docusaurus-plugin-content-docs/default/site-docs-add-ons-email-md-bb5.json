@@ -1,0 +1,25 @@
+{
+  "id": "add-ons/email",
+  "title": "Email Add-ons",
+  "description": "1. Go to Admin -> Add-ons -> Email templates",
+  "source": "@site/docs/add-ons/email.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/email",
+  "permalink": "/add-ons/email",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Email Add-ons"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Discord Add-ons",
+    "permalink": "/add-ons/discord"
+  },
+  "next": {
+    "title": "Video Add-ons",
+    "permalink": "/add-ons/video"
+  }
+}

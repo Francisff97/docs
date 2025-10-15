@@ -1,0 +1,25 @@
+{
+  "id": "add-ons/paypal",
+  "title": "PayPal",
+  "description": "To set Paypal contact me on discord.",
+  "source": "@site/docs/add-ons/paypal.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/paypal",
+  "permalink": "/add-ons/paypal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PayPal"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Video Add-ons",
+    "permalink": "/add-ons/video"
+  },
+  "next": {
+    "title": "SEO Pages",
+    "permalink": "/seo/pages"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "commerce/coupons",
+  "title": "Coupons",
+  "description": "Create discount codes from Admin → Coupons.",
+  "source": "@site/docs/commerce/coupons.md",
+  "sourceDirName": "commerce",
+  "slug": "/commerce/coupons",
+  "permalink": "/commerce/coupons",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Coupons"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Orders",
+    "permalink": "/commerce/orders"
+  },
+  "next": {
+    "title": "Privacy",
+    "permalink": "/platform/privacy"
+  }
+}
