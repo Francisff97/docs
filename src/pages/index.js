@@ -16,13 +16,13 @@ export default function Homepage() {
         
         <div style={{marginTop: '2rem'}}>
           <Link
-          style={{fontFamily: 'Orbitron'}}
+          style={{fontFamily: 'Orbitron', fontSize: '1.25rem'}}
             className="button button--primary button--lg"
             to="/getting-started">
             Go to the Docs
           </Link>
           <Link
-          style={{fontFamily: 'Orbitron', marginLeft: '1rem'}}
+          style={{fontFamily: 'Orbitron', marginLeft: '1rem', fontSize: '1.25rem'}}
             className="button button--secondary button--lg"
             
             to="https://demo.base-forge.com">
