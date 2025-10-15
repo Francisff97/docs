@@ -87,7 +87,7 @@ export default {
             },
             {
               "label": "Add-ons",
-              "to": "/integrations/discord"
+              "to": "/add-ons/discord"
             }
           ]
         }
