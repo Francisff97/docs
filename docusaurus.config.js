@@ -60,7 +60,7 @@ const config = {
         {title:'Docs', items:[
           {label:'Getting Started', to:'/getting-started'},
           {label:'Packs', to:'/catalog/packs'},
-          {label:'Add-ons', to:'/integrations/discord'}
+          {label:'Add-ons', to:'/add-ons/discord'}
         ]}
       ],
       copyright: `© ${new Date().getFullYear()} BaseForge.`,
