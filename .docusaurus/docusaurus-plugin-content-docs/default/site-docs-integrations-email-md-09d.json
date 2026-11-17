@@ -1,0 +1,25 @@
+{
+  "id": "integrations/email",
+  "title": "Email Add-ons",
+  "description": "1. Go to Admin -> Add-ons -> Email templates",
+  "source": "@site/docs/integrations/email.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/email",
+  "permalink": "/integrations/email",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Email Add-ons"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Discord Add-ons",
+    "permalink": "/integrations/discord"
+  },
+  "next": {
+    "title": "Video Add-ons",
+    "permalink": "/integrations/video"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "integrations/video",
+  "title": "Video Add-ons",
+  "description": "1. Go to Admin -> Add-ons -> Video",
+  "source": "@site/docs/integrations/video.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/video",
+  "permalink": "/integrations/video",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Video Add-ons"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Email Add-ons",
+    "permalink": "/integrations/email"
+  },
+  "next": {
+    "title": "PayPal",
+    "permalink": "/integrations/paypal"
+  }
+}

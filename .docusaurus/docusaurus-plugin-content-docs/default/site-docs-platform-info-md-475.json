@@ -1,0 +1,25 @@
+{
+  "id": "platform/info",
+  "title": "Platform Info",
+  "description": "1. Go to Admin -> Platform -> Platform info.",
+  "source": "@site/docs/platform/info.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/info",
+  "permalink": "/platform/info",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Platform Info"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Google Analytics",
+    "permalink": "/platform/analytics"
+  },
+  "next": {
+    "title": "Discord Add-ons",
+    "permalink": "/add-ons/discord"
+  }
+}

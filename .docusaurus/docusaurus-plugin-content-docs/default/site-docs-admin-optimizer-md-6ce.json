@@ -1,0 +1,25 @@
+{
+  "id": "admin/optimizer",
+  "title": "Image Optimizer",
+  "description": "That allow you to convert images from PNG/JPEG/JPG into WebP a modern mode to serve images.",
+  "source": "@site/docs/admin/optimizer.md",
+  "sourceDirName": "admin",
+  "slug": "/admin/optimizer",
+  "permalink": "/admin/optimizer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Image Optimizer"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Admin Dashboard",
+    "permalink": "/admin/"
+  },
+  "next": {
+    "title": "Packs",
+    "permalink": "/catalog/packs"
+  }
+}

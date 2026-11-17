@@ -1,0 +1,22 @@
+{
+  "id": "getting-started",
+  "title": "Getting Started",
+  "description": "Quick start guide for BaseForge (user-facing)",
+  "source": "@site/docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Getting Started",
+    "description": "Quick start guide for BaseForge (user-facing)"
+  },
+  "sidebar": "guide",
+  "next": {
+    "title": "Appearance",
+    "permalink": "/appearance"
+  }
+}

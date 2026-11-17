@@ -1,0 +1,25 @@
+{
+  "id": "seo",
+  "title": "SEO Tips",
+  "description": "- Write concise titles (≤ 60 chars) and meta descriptions (≤ 160 chars).",
+  "source": "@site/docs/seo.md",
+  "sourceDirName": ".",
+  "slug": "/seo",
+  "permalink": "/seo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SEO Tips"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "PayPal",
+    "permalink": "/integrations/paypal"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/faq"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "add-ons/video",
+  "title": "Video Add-ons",
+  "description": "1. Go to Admin -> Add-ons -> Video",
+  "source": "@site/docs/add-ons/video.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/video",
+  "permalink": "/add-ons/video",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Video Add-ons"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Email Add-ons",
+    "permalink": "/add-ons/email"
+  },
+  "next": {
+    "title": "PayPal",
+    "permalink": "/add-ons/paypal"
+  }
+}

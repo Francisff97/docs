@@ -1,0 +1,25 @@
+{
+  "id": "commerce/orders",
+  "title": "Orders",
+  "description": "Track order status, refunds, and customer activity from Admin → Orders.",
+  "source": "@site/docs/commerce/orders.md",
+  "sourceDirName": "commerce",
+  "slug": "/commerce/orders",
+  "permalink": "/commerce/orders",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Orders"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Builders",
+    "permalink": "/catalog/builders"
+  },
+  "next": {
+    "title": "Coupons",
+    "permalink": "/commerce/coupons"
+  }
+}

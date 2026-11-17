@@ -1,0 +1,25 @@
+{
+  "id": "troubleshoting",
+  "title": "Troubleshoting",
+  "description": "If you encounter bugs or similar please report me on discord",
+  "source": "@site/docs/troubleshoting.md",
+  "sourceDirName": ".",
+  "slug": "/troubleshoting",
+  "permalink": "/troubleshoting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Troubleshoting"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/faq"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/changelog"
+  }
+}

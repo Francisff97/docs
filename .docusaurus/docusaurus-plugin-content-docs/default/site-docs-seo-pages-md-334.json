@@ -1,0 +1,25 @@
+{
+  "id": "seo/pages",
+  "title": "SEO Pages",
+  "description": "1. Go to Admin -> SEO -> Media.",
+  "source": "@site/docs/seo/pages.md",
+  "sourceDirName": "seo",
+  "slug": "/seo/pages",
+  "permalink": "/seo/pages",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SEO Pages"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "PayPal",
+    "permalink": "/add-ons/paypal"
+  },
+  "next": {
+    "title": "SEO Media",
+    "permalink": "/seo/media"
+  }
+}

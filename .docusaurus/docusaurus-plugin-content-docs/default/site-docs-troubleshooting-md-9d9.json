@@ -1,0 +1,25 @@
+{
+  "id": "troubleshooting",
+  "title": "Troubleshooting",
+  "description": "If something looks off:",
+  "source": "@site/docs/troubleshooting.md",
+  "sourceDirName": ".",
+  "slug": "/troubleshooting",
+  "permalink": "/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Troubleshooting"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/faq"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/changelog"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "integrations/discord",
+  "title": "Discord Add-ons",
+  "description": "1. Go to Admin -> Add-ons -> Discord add-ons",
+  "source": "@site/docs/integrations/discord.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/discord",
+  "permalink": "/integrations/discord",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Discord Add-ons"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Coupons",
+    "permalink": "/commerce/coupons"
+  },
+  "next": {
+    "title": "Email Add-ons",
+    "permalink": "/integrations/email"
+  }
+}

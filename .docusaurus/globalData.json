@@ -1,0 +1,162 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "getting-started",
+          "docs": [
+            {
+              "id": "add-ons/discord",
+              "path": "/add-ons/discord",
+              "sidebar": "guide"
+            },
+            {
+              "id": "add-ons/email",
+              "path": "/add-ons/email",
+              "sidebar": "guide"
+            },
+            {
+              "id": "add-ons/paypal",
+              "path": "/add-ons/paypal",
+              "sidebar": "guide"
+            },
+            {
+              "id": "add-ons/video",
+              "path": "/add-ons/video",
+              "sidebar": "guide"
+            },
+            {
+              "id": "admin/admin",
+              "path": "/admin/",
+              "sidebar": "guide"
+            },
+            {
+              "id": "admin/optimizer",
+              "path": "/admin/optimizer",
+              "sidebar": "guide"
+            },
+            {
+              "id": "appearance",
+              "path": "/appearance",
+              "sidebar": "guide"
+            },
+            {
+              "id": "catalog/about",
+              "path": "/catalog/about",
+              "sidebar": "guide"
+            },
+            {
+              "id": "catalog/builders",
+              "path": "/catalog/builders",
+              "sidebar": "guide"
+            },
+            {
+              "id": "catalog/categories",
+              "path": "/catalog/categories",
+              "sidebar": "guide"
+            },
+            {
+              "id": "catalog/coaches",
+              "path": "/catalog/coaches",
+              "sidebar": "guide"
+            },
+            {
+              "id": "catalog/hero",
+              "path": "/catalog/hero",
+              "sidebar": "guide"
+            },
+            {
+              "id": "catalog/packs",
+              "path": "/catalog/packs",
+              "sidebar": "guide"
+            },
+            {
+              "id": "catalog/partners",
+              "path": "/catalog/partners",
+              "sidebar": "guide"
+            },
+            {
+              "id": "catalog/services",
+              "path": "/catalog/services",
+              "sidebar": "guide"
+            },
+            {
+              "id": "catalog/slides",
+              "path": "/catalog/slides"
+            },
+            {
+              "id": "changelog",
+              "path": "/changelog",
+              "sidebar": "guide"
+            },
+            {
+              "id": "commerce/coupons",
+              "path": "/commerce/coupons",
+              "sidebar": "guide"
+            },
+            {
+              "id": "commerce/orders",
+              "path": "/commerce/orders",
+              "sidebar": "guide"
+            },
+            {
+              "id": "faq",
+              "path": "/faq",
+              "sidebar": "guide"
+            },
+            {
+              "id": "getting-started",
+              "path": "/getting-started",
+              "sidebar": "guide"
+            },
+            {
+              "id": "platform/analytics",
+              "path": "/platform/analytics",
+              "sidebar": "guide"
+            },
+            {
+              "id": "platform/info",
+              "path": "/platform/info",
+              "sidebar": "guide"
+            },
+            {
+              "id": "platform/privacy",
+              "path": "/platform/privacy",
+              "sidebar": "guide"
+            },
+            {
+              "id": "seo/media",
+              "path": "/seo/media",
+              "sidebar": "guide"
+            },
+            {
+              "id": "seo/pages",
+              "path": "/seo/pages",
+              "sidebar": "guide"
+            },
+            {
+              "id": "troubleshoting",
+              "path": "/troubleshoting",
+              "sidebar": "guide"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "guide": {
+              "link": {
+                "path": "/getting-started",
+                "label": "getting-started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

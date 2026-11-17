@@ -1,0 +1,25 @@
+{
+  "id": "catalog/partners",
+  "title": "Partners",
+  "description": "1. Go to Admin -> People -> Partners.",
+  "source": "@site/docs/catalog/partners.md",
+  "sourceDirName": "catalog",
+  "slug": "/catalog/partners",
+  "permalink": "/catalog/partners",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Partners"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Hero sections",
+    "permalink": "/catalog/hero"
+  },
+  "next": {
+    "title": "Create a Service",
+    "permalink": "/catalog/services"
+  }
+}

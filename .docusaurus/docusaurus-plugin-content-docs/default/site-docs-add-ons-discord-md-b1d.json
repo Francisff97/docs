@@ -1,0 +1,25 @@
+{
+  "id": "add-ons/discord",
+  "title": "Discord Add-ons",
+  "description": "To make that add-ons to work you need to invite Base Forge BOT into your server, you can find invite link into my server section BASE FORGE",
+  "source": "@site/docs/add-ons/discord.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/discord",
+  "permalink": "/add-ons/discord",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Discord Add-ons"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Platform Info",
+    "permalink": "/platform/info"
+  },
+  "next": {
+    "title": "Email Add-ons",
+    "permalink": "/add-ons/email"
+  }
+}

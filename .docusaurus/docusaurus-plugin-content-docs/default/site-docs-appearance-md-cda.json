@@ -1,0 +1,25 @@
+{
+  "id": "appearance",
+  "title": "Appearance",
+  "description": "Alt text",
+  "source": "@site/docs/appearance.md",
+  "sourceDirName": ".",
+  "slug": "/appearance",
+  "permalink": "/appearance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Appearance"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/getting-started"
+  },
+  "next": {
+    "title": "Admin Dashboard",
+    "permalink": "/admin/"
+  }
+}

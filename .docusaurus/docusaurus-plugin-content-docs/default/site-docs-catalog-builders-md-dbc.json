@@ -1,0 +1,25 @@
+{
+  "id": "catalog/builders",
+  "title": "Builders",
+  "description": "1. Go to Admin -> People -> Builders.",
+  "source": "@site/docs/catalog/builders.md",
+  "sourceDirName": "catalog",
+  "slug": "/catalog/builders",
+  "permalink": "/catalog/builders",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Builders"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "Create a Service",
+    "permalink": "/catalog/services"
+  },
+  "next": {
+    "title": "Orders",
+    "permalink": "/commerce/orders"
+  }
+}

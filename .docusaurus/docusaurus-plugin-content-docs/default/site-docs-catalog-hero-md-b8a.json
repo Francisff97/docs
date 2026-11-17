@@ -1,0 +1,25 @@
+{
+  "id": "catalog/hero",
+  "title": "Hero sections",
+  "description": "1. Go to Admin -> Presentation -> Hero Sections.",
+  "source": "@site/docs/catalog/hero.md",
+  "sourceDirName": "catalog",
+  "slug": "/catalog/hero",
+  "permalink": "/catalog/hero",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Hero sections"
+  },
+  "sidebar": "guide",
+  "previous": {
+    "title": "About page",
+    "permalink": "/catalog/about"
+  },
+  "next": {
+    "title": "Partners",
+    "permalink": "/catalog/partners"
+  }
+}
